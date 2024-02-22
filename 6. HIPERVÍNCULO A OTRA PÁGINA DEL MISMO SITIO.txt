@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<title>HIPERVÍNCULO A OTRA PÁGINA DEL MISMO SITIO</title>
+</head>
+
+<body>
+
+<h1>Conoce Python</h1>
+<p>Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de todo tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros.</p>
+<a href="Pagina Secuandaria.html">Conoce otros Lenguajes</a>
+
+</body>
+
+</html>

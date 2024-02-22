@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<title>ESTRUCTURA INTERNA DE UNA PÁGINA HTML</title>
+</head>
+
+<body>
+
+<h1>Lenguajes de Programación</h1>
+<h4 id="lenguajes">JavaScript - Python - Java - C++ - Kotlin</h4>
+
+</body>
+
+</html>

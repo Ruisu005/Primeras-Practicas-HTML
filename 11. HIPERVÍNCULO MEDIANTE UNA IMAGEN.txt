@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<title>HIPERVÍNCULO MEDIANTE UNA IMAGEN</title>
+</head>
+
+<body>
+
+<h1>Galeria de Imagenes con Hipervinculos</h1>
+
+<div>
+<h3>Python</h3>
+<a href="https://www.python.org/">
+<img src="imagenes/python.png" alt="Imagen Python">
+</a>
+</div>
+
+<div>
+<h3>Java</h3>
+<a href="https://www.java.com/es/">
+<img src="imagenes/java.png" alt="Imagen Java">
+</a>
+</div>
+
+<div>
+<h3>JavaScript</h3>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+<img src="imagenes/javascript.png" alt="Imagen JavaScript">
+</a>
+</div>
+
+<div>
+<h3>C++</h3>
+<a href="https://bloodshed.net/">
+<img src="imagenes/c++.png" alt="Imagen C++">
+</a>
+</div>
+
+</body>
+
+</html>

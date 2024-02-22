@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<title>HIPERVÍNCULO A UN CLIENTE DE CORREO <A></title>
+</head>
+
+<body>
+
+<h1>Página con Hipervínculo a Correo</h1>
+
+<p>Si deseas enviar un correo, puedes utilizar <a href="luisacku555@gmail.com">tu cliente de correo</a>.</p>
+
+</body>
+
+</html>

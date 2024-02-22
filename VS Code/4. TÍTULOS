@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<title>ESTRUCTURA INTERNA DE UNA PÁGINA HTML</title>
+</head>
+
+<body>
+
+<h1>Lenguajes de Programación</h1>
+
+<h2 id="JavaScript">JavaScript</h2>
+<p>JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos,​ basado en prototipos, imperativo, débilmente tipado y dinámico.</p>
+
+<h2 id="Python">Python</h2>
+<p>Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de todo tipo, por ejemplo: Instagram, Netflix, Spotify, Panda3D, entre otros.​</p>
+
+</body>
+
+</html>
